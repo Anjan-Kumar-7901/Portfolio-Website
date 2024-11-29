@@ -26,7 +26,7 @@ body{
 }
 
 section{
-    padding: 6rem 0;
+    padding: 0rem 0;
 }
 
 a{
@@ -621,10 +621,11 @@ color:#c26700;
     background-color: #313534;
 }
 .experience-img{
-    position: absolute;
-    height: 50%;
+    position: relative;
+    height: 0%;
     width: 20%;
     right: 0%;
+    left: 70%;
     animation:move 4s infinite;
 }
 
